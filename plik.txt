@@ -1,0 +1,5 @@
+głowa
+ciało
+nogi
+bark
+stopa
